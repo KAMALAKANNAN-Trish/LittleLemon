@@ -1,0 +1,14 @@
+Adding file to git repository and pull it from git repository
+---------------------------------------------------------------
+git clone "repository-link"
+cd "repository-location"
+
+git status
+git add <<filename>>
+git commit -m <<filename>>
+git status
+git push origin main
+
+Commit changes in the github
+
+git pull 
